@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1001,Chrome 112.0.0.0,,,2566-04-10 14:29:21,2566-04-10 14:29:47,26.440s,FAILED
+,,,,,,,
+Test Cases/TC1001,Chrome 112.0.0.0,,,2566-04-10 14:29:21,2566-04-10 14:29:40,19.190s,FAILED
+"openBrowser("""")",Chrome 112.0.0.0,,,2566-04-10 14:29:21,2566-04-10 14:29:23,2.006s,PASSED
+"navigateToUrl(""https://member.set.or.th/set-member/registration/profile-registration"")",Chrome 112.0.0.0,,,2566-04-10 14:29:23,2566-04-10 14:29:25,1.431s,PASSED
+"setText(findTestObject(""Email""), ""sofekung@gmail.com"")",Chrome 112.0.0.0,,,2566-04-10 14:29:25,2566-04-10 14:29:26,0.905s,PASSED
+"setText(findTestObject(""Pass""), ""Sofe0123456"")",Chrome 112.0.0.0,,,2566-04-10 14:29:26,2566-04-10 14:29:26,0.651s,PASSED
+"setText(findTestObject(""PassAg""), ""Sofe0123456"")",Chrome 112.0.0.0,,,2566-04-10 14:29:26,2566-04-10 14:29:27,0.867s,PASSED
+"click(findTestObject(""Sex""), STOP_ON_FAILURE)",Chrome 112.0.0.0,,,2566-04-10 14:29:27,2566-04-10 14:29:40,13.066s,FAILED
+,,,,,,,
+Test Cases/TC1002,Chrome 112.0.0.0,,,2566-04-10 14:29:40,2566-04-10 14:29:47,7.055s,PASSED
+"openBrowser("""")",Chrome 112.0.0.0,,,2566-04-10 14:29:41,2566-04-10 14:29:42,1.649s,PASSED
+"navigateToUrl(""https://member.set.or.th/set-member/registration/profile-registration"")",Chrome 112.0.0.0,,,2566-04-10 14:29:42,2566-04-10 14:29:43,1.011s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/button_""))",Chrome 112.0.0.0,,,2566-04-10 14:29:43,2566-04-10 14:29:44,0.587s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span_""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:44,2566-04-10 14:29:44,0.601s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:44,2566-04-10 14:29:45,0.300s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:45,2566-04-10 14:29:45,0.306s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:45,2566-04-10 14:29:45,0.299s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:45,2566-04-10 14:29:46,0.299s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:46,2566-04-10 14:29:46,0.309s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4_5""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:46,2566-04-10 14:29:46,0.301s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4_5_6""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:46,2566-04-10 14:29:47,0.318s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4_5_6_7""), 0)",Chrome 112.0.0.0,,,2566-04-10 14:29:47,2566-04-10 14:29:47,0.297s,PASSED
+closeBrowser(),Chrome 112.0.0.0,,,2566-04-10 14:29:47,2566-04-10 14:29:47,0.612s,PASSED

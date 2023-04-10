@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1001,Chrome 112.0.0.0,,,2566-04-10 13:56:40,2566-04-10 13:56:58,18.041s,FAILED
+,,,,,,,
+Test Cases/TC1001,Chrome 112.0.0.0,,,2566-04-10 13:56:40,2566-04-10 13:56:51,10.513s,FAILED
+"openBrowser("""")",Chrome 112.0.0.0,,,2566-04-10 13:56:41,2566-04-10 13:56:42,1.784s,PASSED
+"navigateToUrl(""https://member.set.or.th/set-member/registration/profile-registration"")",Chrome 112.0.0.0,,,2566-04-10 13:56:42,2566-04-10 13:56:44,1.390s,PASSED
+"setText(findTestObject(""Object Repository/Page_SET Member/input_Foreigner_input-text ng-untouched ng-_c80bcf""), ""sofekung@gmail.com"")",Chrome 112.0.0.0,,,2566-04-10 13:56:44,2566-04-10 13:56:45,0.948s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SET Member/input_Foreigner_input-text ng-untouched ng-_f63917""), ""QyX8g4KE8PIW9is6FN12xw=="")",Chrome 112.0.0.0,,,2566-04-10 13:56:45,2566-04-10 13:56:45,0.404s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/div_Foreigner_password-container""))",Chrome 112.0.0.0,,,2566-04-10 13:56:45,2566-04-10 13:56:46,0.482s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SET Member/input_Foreigner_input-text ng-untouched is-_f59f4d""), ""QyX8g4KE8PIW9is6FN12xw=="")",Chrome 112.0.0.0,,,2566-04-10 13:56:46,2566-04-10 13:56:46,0.367s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/div__mat-radio-outer-circle""))",Chrome 112.0.0.0,,,2566-04-10 13:56:46,2566-04-10 13:56:51,4.882s,FAILED
+,,,,,,,
+Test Cases/TC1002,Chrome 112.0.0.0,,,2566-04-10 13:56:51,2566-04-10 13:56:58,7.336s,PASSED
+"openBrowser("""")",Chrome 112.0.0.0,,,2566-04-10 13:56:51,2566-04-10 13:56:53,1.635s,PASSED
+"navigateToUrl(""https://member.set.or.th/set-member/registration/profile-registration"")",Chrome 112.0.0.0,,,2566-04-10 13:56:53,2566-04-10 13:56:54,1.404s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/button_""))",Chrome 112.0.0.0,,,2566-04-10 13:56:54,2566-04-10 13:56:55,0.566s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span_""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:55,2566-04-10 13:56:55,0.542s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:55,2566-04-10 13:56:55,0.293s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:55,2566-04-10 13:56:56,0.297s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:56,2566-04-10 13:56:56,0.301s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:56,2566-04-10 13:56:56,0.308s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:56,2566-04-10 13:56:57,0.292s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4_5""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:57,2566-04-10 13:56:57,0.302s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4_5_6""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:57,2566-04-10 13:56:57,0.298s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_SET Member/span__1_2_3_4_5_6_7""), 0)",Chrome 112.0.0.0,,,2566-04-10 13:56:57,2566-04-10 13:56:58,0.297s,PASSED
+closeBrowser(),Chrome 112.0.0.0,,,2566-04-10 13:56:58,2566-04-10 13:56:58,0.617s,PASSED

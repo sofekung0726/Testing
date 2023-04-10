@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS1001,Chrome 112.0.0.0,,,2566-04-10 13:57:20,2566-04-10 13:57:45,25.233s,FAILED
+,,,,,,,
+Test Cases/TC1001,Chrome 112.0.0.0,,,2566-04-10 13:57:20,2566-04-10 13:57:43,22.644s,FAILED
+"openBrowser("""")",Chrome 112.0.0.0,,,2566-04-10 13:57:20,2566-04-10 13:57:22,1.766s,PASSED
+"navigateToUrl(""https://member.set.or.th/set-member/registration/profile-registration"")",Chrome 112.0.0.0,,,2566-04-10 13:57:22,2566-04-10 13:57:23,1.249s,PASSED
+"setText(findTestObject(""Object Repository/Page_SET Member/input_Foreigner_input-text ng-untouched ng-_c80bcf""), ""sofekung@gmail.com"")",Chrome 112.0.0.0,,,2566-04-10 13:57:23,2566-04-10 13:57:24,0.924s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SET Member/input_Foreigner_input-text ng-untouched ng-_f63917""), ""QyX8g4KE8PIW9is6FN12xw=="")",Chrome 112.0.0.0,,,2566-04-10 13:57:24,2566-04-10 13:57:25,0.404s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/div_Foreigner_password-container""))",Chrome 112.0.0.0,,,2566-04-10 13:57:25,2566-04-10 13:57:25,0.469s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SET Member/input_Foreigner_input-text ng-untouched is-_f59f4d""), ""QyX8g4KE8PIW9is6FN12xw=="")",Chrome 112.0.0.0,,,2566-04-10 13:57:25,2566-04-10 13:57:26,0.382s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/div__mat-radio-outer-circle""))",Chrome 112.0.0.0,,,2566-04-10 13:57:26,2566-04-10 13:57:43,17.192s,FAILED
+,,,,,,,
+Test Cases/TC1002,Chrome 112.0.0.0,,,2566-04-10 13:57:43,2566-04-10 13:57:45,2.399s,FAILED
+"openBrowser("""")",Chrome 112.0.0.0,,,2566-04-10 13:57:43,2566-04-10 13:57:45,1.625s,PASSED
+"navigateToUrl(""https://member.set.or.th/set-member/registration/profile-registration"")",Chrome 112.0.0.0,,,2566-04-10 13:57:45,2566-04-10 13:57:45,0.515s,PASSED
+"click(findTestObject(""Object Repository/Page_SET Member/button_""))",Chrome 112.0.0.0,,,2566-04-10 13:57:45,2566-04-10 13:57:45,0.089s,FAILED

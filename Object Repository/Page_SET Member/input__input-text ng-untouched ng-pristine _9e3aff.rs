@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__input-text ng-untouched ng-pristine _9e3aff</name>
+   <tag></tag>
+   <elementGuidId>dbadac64-1194-4738-bcb9-dee43b58c127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-text.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d22c4a72-ab5e-48ee-8ee8-caf8783c71e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>56dbf871-849b-48f7-b38f-688fcca6066d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>firstName</value>
+      <webElementGuid>5507c713-fbef-4bb1-9173-cf800a1145a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>ชื่อ</value>
+      <webElementGuid>30ac309c-b3b3-4b96-be07-077773c31653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[@class=&quot;undefined&quot;]/app-register-layout[1]/div[@class=&quot;content content-footer&quot;]/app-profile-registration[1]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-body&quot;]/div[@class=&quot;regis-form&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/input[@class=&quot;input-text ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>8df86125-35fa-4fad-8516-1d3fd0645ff9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>6bb18e0b-af53-4efa-bf8b-fd05033f04b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'ชื่อ']</value>
+      <webElementGuid>31851a98-1f73-462a-9fa1-3879134ce472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

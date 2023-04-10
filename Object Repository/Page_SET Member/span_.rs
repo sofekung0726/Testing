@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>4e21e2cc-e280-48f7-bd44-3495bd7bb2aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Foreigner'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2aaa7f46-4380-4ea3-9190-ecba09fe8df3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>8ff18605-b6c2-4140-ac95-dd1f3e68d290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> กรุณากรอกอีเมล </value>
+      <webElementGuid>4706cf11-fd5a-46a9-a904-bbacdc9fc002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[@class=&quot;undefined&quot;]/app-register-layout[1]/div[@class=&quot;content content-footer&quot;]/app-profile-registration[1]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-body&quot;]/div[@class=&quot;regis-form&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;error-wrapper&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>13493bc2-7689-49bc-9377-14e49def4149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foreigner'])[1]/following::span[1]</value>
+      <webElementGuid>f97ba37e-41d9-421c-9e9c-edc3f39f376d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='สมัครสมาชิก SET Member'])[1]/following::span[1]</value>
+      <webElementGuid>2c48709a-2cdb-4485-b3e8-b658443558ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกรหัสผ่าน'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c7fabc0-6623-4cbd-8d14-faa7d05cd591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกยืนยันรหัสผ่าน'])[1]/preceding::span[2]</value>
+      <webElementGuid>20655165-a9be-4d30-8c07-8298cbd3c719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='กรุณากรอกอีเมล']/parent::*</value>
+      <webElementGuid>e06fc5db-49a8-4c8d-acdc-c05422e67909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>20be304d-17a1-4d6c-99c1-44095e5da244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' กรุณากรอกอีเมล ' or . = ' กรุณากรอกอีเมล ')]</value>
+      <webElementGuid>c7a19da8-8843-430a-8d45-7d6a182eb11a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

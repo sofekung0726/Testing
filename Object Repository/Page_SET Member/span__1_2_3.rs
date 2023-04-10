@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>8f65937d-c216-4f17-85fd-86bae821a7f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-5 > div.error-wrapper > span.error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกชื่อ'])[1]/preceding::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>084a63d0-08ca-46a0-9e8a-7ed36d75d5bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>c402685a-3b16-4d54-9264-c46979ce622b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> กรุณาระบุเพศ </value>
+      <webElementGuid>d98f742d-4b41-4128-8182-c8a1ae21e7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[@class=&quot;undefined&quot;]/app-register-layout[1]/div[@class=&quot;content content-footer&quot;]/app-profile-registration[1]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-body&quot;]/div[@class=&quot;regis-form&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;error-wrapper&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>095ebf71-488b-44e1-b2ea-dd94152a48bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกชื่อ'])[1]/preceding::span[1]</value>
+      <webElementGuid>84340ab7-8fc9-4660-a621-aa91373214a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกนามสกุล'])[1]/preceding::span[2]</value>
+      <webElementGuid>4ba90f04-0a1c-4ba1-bbd1-0fb02315d7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='กรุณาระบุเพศ']/parent::*</value>
+      <webElementGuid>80567bd6-0007-4da0-866b-a26e8e7d168c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>b4798947-cdde-4a25-b5b4-28f60ae1f64f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' กรุณาระบุเพศ ' or . = ' กรุณาระบุเพศ ')]</value>
+      <webElementGuid>6f542131-006d-43c6-bbcc-134884b01c17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

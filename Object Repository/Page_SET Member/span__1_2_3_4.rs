@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>43e59032-c736-4999-9434-9b910de0bcc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณาระบุเพศ'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>183da575-4dcf-47a4-a6c0-81621c5179e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>807c37c8-ad16-4bea-b2eb-99d933c4c765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> กรุณากรอกชื่อ </value>
+      <webElementGuid>8a853a5f-43fd-43f3-b10a-51d5f937c328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[@class=&quot;undefined&quot;]/app-register-layout[1]/div[@class=&quot;content content-footer&quot;]/app-profile-registration[1]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-body&quot;]/div[@class=&quot;regis-form&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;error-wrapper&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>112e94e5-fc26-4521-98e9-98ab7b8ad250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณาระบุเพศ'])[1]/following::span[1]</value>
+      <webElementGuid>7635738b-31c9-4af5-bf5d-bd35baf78fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกนามสกุล'])[1]/preceding::span[1]</value>
+      <webElementGuid>a6283363-d938-4920-96aa-2d3324618b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกหมายเลขบัตรประชาชน'])[1]/preceding::span[2]</value>
+      <webElementGuid>d16c153d-2263-4629-893e-99801c6ba4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='กรุณากรอกชื่อ']/parent::*</value>
+      <webElementGuid>6c259ecf-007c-4867-9073-02cd8c9bb168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/span</value>
+      <webElementGuid>c1fdc322-28ec-4ded-96a0-e3abb6db10ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' กรุณากรอกชื่อ ' or . = ' กรุณากรอกชื่อ ')]</value>
+      <webElementGuid>5a28b0d9-ad2e-480b-9b01-8776326f399c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

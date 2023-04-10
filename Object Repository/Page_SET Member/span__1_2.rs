@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2</name>
+   <tag></tag>
+   <elementGuidId>af626ab8-99d7-4de2-8cac-5f41d691184f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกรหัสผ่าน'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fdea9cb3-fdc4-4a5e-8761-e71c9594cf15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>09be6477-2343-4a22-bf3a-dd9c9238dab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> กรุณากรอกยืนยันรหัสผ่าน </value>
+      <webElementGuid>df0d21c8-4eff-4a63-a5c8-8cebbf1fd838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[@class=&quot;undefined&quot;]/app-register-layout[1]/div[@class=&quot;content content-footer&quot;]/app-profile-registration[1]/div[@class=&quot;form-container&quot;]/div[@class=&quot;form-body&quot;]/div[@class=&quot;regis-form&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;error-wrapper&quot;]/span[@class=&quot;error&quot;]</value>
+      <webElementGuid>cce99757-7fac-4f69-a660-6594410b7e94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกรหัสผ่าน'])[1]/following::span[1]</value>
+      <webElementGuid>f4c5acca-88d9-4536-99eb-4e0e41585964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='กรุณากรอกอีเมล'])[1]/following::span[2]</value>
+      <webElementGuid>780ad500-7a51-4c4a-8b6b-54cbe2f6dca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='รหัสผ่านต้องเป็น Strong เท่านั้นถึงจะผ่าน ตัวอย่างรหัสผ่านที่ถูกต้อง : Jelly22fish'])[1]/preceding::span[1]</value>
+      <webElementGuid>737ee4f3-ec44-49d7-947d-2e17e9f05316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='มีความยาวระหว่าง 8 ถึง 15 ตัวอักษร'])[1]/preceding::span[1]</value>
+      <webElementGuid>09612ba7-d5d6-4dd3-8dea-0ad65ea775a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='กรุณากรอกยืนยันรหัสผ่าน']/parent::*</value>
+      <webElementGuid>d03bbb98-f0d7-4c21-984d-838b0fd95f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span</value>
+      <webElementGuid>899425df-c9a2-4dbd-a5ff-4cb61b51ceb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' กรุณากรอกยืนยันรหัสผ่าน ' or . = ' กรุณากรอกยืนยันรหัสผ่าน ')]</value>
+      <webElementGuid>46718f3e-42af-4df7-ba7b-5c17b7f7e5d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
